@@ -1,0 +1,12 @@
+{
+  "name": "com.biscuitprime.localizationmanager",
+  "displayName": "Localization Manager",
+  "version": "1.0.0",
+  "author": {
+    "name": "Biscuit Prime",
+    "email": "henri.nomico@gmail.com"
+  },
+  "description": "A small package for creating a functional Localization Manager. Create you JSON files, and just call the LocalizationManager LocalText function !",
+  "keywords": [ "localization", "language", "utility"],
+  "dependencies": {}
+}
