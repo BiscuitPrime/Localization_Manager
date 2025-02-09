@@ -100,4 +100,13 @@ public class LocalizationManager : MonoBehaviour
         }
         return outText;
     }
+
+    public void SetLocalizationOption(LOCALIZATION_OPTIONS option)
+    {
+        _option = option;
+    }
+    public LOCALIZATION_OPTIONS GetLocalizationOption()
+    {
+        return _option;
+    }
 }
